@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import App from './App';
 import "./styles/index.css"
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import Pagina1 from "../src/pages/Pagina1.jsx"
 import Pagina2 from "../src/pages/Pagina2.jsx"
 
